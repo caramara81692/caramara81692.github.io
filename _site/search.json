@@ -1,0 +1,105 @@
+[
+  {
+    "objectID": "letter.html",
+    "href": "letter.html",
+    "title": "Letter to the Mayor",
+    "section": "",
+    "text": "The .\n\nviewof strName = Inputs.text({label: \"Your Name\"})\n\nviewof strNeighborhood = Inputs.text({label: \"Your Neighborhood\"})\n\nviewof dateWrittenV = Inputs.datetime({label: \"Date Written\", value: \"2024-02-26\", max: \"2026-02-26\"})\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDear Mayor Adams,\nMy name is , and I am a constituent who currently lives in . I am writing to express concern about the lack of awareness regarding health code violations among diners in New York City. As one of the culinary capitals of the world, our city attracts food lovers from across the globe. It’s essential that we uphold our reputation by ensuring diners have easy access to information about recent health code violations and the health grade of restaurants before they dine out. This transparency will help maintain trust in the quality and safety of the dining experiences our city offers.\nThe NYC Health Department has a website linked below that allows you to look up all restaurant health grades.\nLink: NYC Health Department Website\nThe table below outlines the health grades and their corresponding point ranges. Additionally, I have included images of the posters that restaurants are required to display in their windows.\n\n\n\nLetter Grade\nNumeric Score\n\n\n\n\nA\n0-13 points\n\n\nB\n14-27 points\n\n\nC\n28+ points\n\n\n\n\nI propose that the Mayor’s Office, promote the map below that allows a patron to look up specific violations or citations by neighborhood or establishment name.\n\n\nMoving forward, the Mayors office should use any of the following strategies to raise awareness:\n\nRaise awareness about what each health grade means.\nCreate a social media and marketing campaign to raise awareness on where to get this information.\nRelease a list of the worst health code violations for diners to watch out for.\nHave a website that allows you to look up health code violations or citations by restaurant or neighborhood, like the map above.\n\nBelow, I’ve provided an example of positive press coverage regarding the expansion of the health grading system to include food carts in the city.\n\n\nThank you for your consideration.\nSincerely,"
+  },
+  {
+    "objectID": "letter.html#please-provide-your-first-and-last-name-neighborhood-borough-and-the-date-you-are-writing-this-letter.",
+    "href": "letter.html#please-provide-your-first-and-last-name-neighborhood-borough-and-the-date-you-are-writing-this-letter.",
+    "title": "Letter to the Mayor",
+    "section": "",
+    "text": "The .\n\nviewof strName = Inputs.text({label: \"Your Name\"})\n\nviewof strNeighborhood = Inputs.text({label: \"Your Neighborhood\"})\n\nviewof dateWrittenV = Inputs.datetime({label: \"Date Written\", value: \"2024-02-26\", max: \"2026-02-26\"})"
+  },
+  {
+    "objectID": "letter.html#an-open-letter-to-the-major-of-new-york-city",
+    "href": "letter.html#an-open-letter-to-the-major-of-new-york-city",
+    "title": "Letter to the Mayor",
+    "section": "",
+    "text": "Dear Mayor Adams,\nMy name is , and I am a constituent who currently lives in . I am writing to express concern about the lack of awareness regarding health code violations among diners in New York City. As one of the culinary capitals of the world, our city attracts food lovers from across the globe. It’s essential that we uphold our reputation by ensuring diners have easy access to information about recent health code violations and the health grade of restaurants before they dine out. This transparency will help maintain trust in the quality and safety of the dining experiences our city offers.\nThe NYC Health Department has a website linked below that allows you to look up all restaurant health grades.\nLink: NYC Health Department Website\nThe table below outlines the health grades and their corresponding point ranges. Additionally, I have included images of the posters that restaurants are required to display in their windows.\n\n\n\nLetter Grade\nNumeric Score\n\n\n\n\nA\n0-13 points\n\n\nB\n14-27 points\n\n\nC\n28+ points\n\n\n\n\nI propose that the Mayor’s Office, promote the map below that allows a patron to look up specific violations or citations by neighborhood or establishment name.\n\n\nMoving forward, the Mayors office should use any of the following strategies to raise awareness:\n\nRaise awareness about what each health grade means.\nCreate a social media and marketing campaign to raise awareness on where to get this information.\nRelease a list of the worst health code violations for diners to watch out for.\nHave a website that allows you to look up health code violations or citations by restaurant or neighborhood, like the map above.\n\nBelow, I’ve provided an example of positive press coverage regarding the expansion of the health grading system to include food carts in the city.\n\n\nThank you for your consideration.\nSincerely,"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "My Map",
+    "section": "",
+    "text": "()",
+    "crumbs": [
+      "Home",
+      "My Map"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Get involved in Health Violation Awareness",
+    "section": "",
+    "text": "The health code and violations are a very important tool used by the Department of Health. Lets put an end to uninformed dining and make violation and citation information more accessible to New Yorkers."
+  },
+  {
+    "objectID": "index.html#introduction",
+    "href": "index.html#introduction",
+    "title": "A Demonstration for WebGIS - Class 4",
+    "section": "Introduction",
+    "text": "Introduction",
+    "crumbs": [
+      "Home",
+      "A Demonstration for WebGIS - Class 4"
+    ]
+  },
+  {
+    "objectID": "index.html#other-shit",
+    "href": "index.html#other-shit",
+    "title": "Get involved in Health Violation Awareness",
+    "section": "Other Shit",
+    "text": "Other Shit"
+  },
+  {
+    "objectID": "index.html#good-shit",
+    "href": "index.html#good-shit",
+    "title": "Get involved in Health Violation Awareness",
+    "section": "Good Shit",
+    "text": "Good Shit"
+  },
+  {
+    "objectID": "index.html#ways-to-get-involved",
+    "href": "index.html#ways-to-get-involved",
+    "title": "Get involved in Health Violation Awareness",
+    "section": "Ways to get involved",
+    "text": "Ways to get involved\nWrite a letter!\nExplore the Map!"
+  },
+  {
+    "objectID": "Map.html",
+    "href": "Map.html",
+    "title": "My Map",
+    "section": "",
+    "text": "Tip\n\n\n\nIf you would like to see the data behind this map. Go to the dropdown and select data."
+  },
+  {
+    "objectID": "Data.html",
+    "href": "Data.html",
+    "title": "Data",
+    "section": "",
+    "text": "Below is a link to the original data that was used to create the Map on this website. NYC OpenData allows you to visualize, search and export the data.\nLink: Please Click Here.\n\n\n\nvia GIPHY"
+  },
+  {
+    "objectID": "Data.html#data",
+    "href": "Data.html#data",
+    "title": "Data",
+    "section": "",
+    "text": "Below is a link to the original data that was used to create the Map on this website. NYC OpenData allows you to visualize, search and export the data.\nPlease Click Here. Link: Please Click Here.\n\n\n\nvia GIPHY",
+    "crumbs": [
+      "Home",
+      "Data"
+    ]
+  },
+  {
+    "objectID": "About.html",
+    "href": "About.html",
+    "title": "About the Author",
+    "section": "",
+    "text": "My name is Caroline Maramara and I am a graduate student in the Geoinformatics program at Hunter College. This is my first website and I have made it for a class called WebGIS.\nAs an avid New York City diner, I have often found myself arriving at a restaurant, only to find that they have a B rating. I have often had the conversation with my friends about how it would be great to have a place to check restaurant health ratings as well as violations and citations issued to the establishment.\nI hope this website helps bring the information to the masses and helps you become a more informed eater."
+  }
+]

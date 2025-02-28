@@ -1,0 +1,77 @@
+---
+title: "Letter to the Mayor"
+---
+
+# Write a Letter to Your Mayor
+
+## Please provide your "first and last name," "neighborhood, borough," and the date you are writing this letter.
+
+<hr width="100%" style="height:10px;color:red;background-color:lightgrey">
+
+The \${strName}.
+
+```{ojs}
+//| echo: false
+//| 
+viewof strName = Inputs.text({label: "Your Name"})
+
+viewof strNeighborhood = Inputs.text({label: "Your Neighborhood"})
+
+viewof dateWrittenV = Inputs.datetime({label: "Date Written", value: "2024-02-26", max: "2026-02-26"})
+```
+
+<svg width="${width}" height="20" viewBox="0 0 ${width} 20">
+
+<rect width="100%" height="60%" fill="lightgrey" />
+
+</svg>
+
+## An open letter to the Major of New York City
+
+\${dateWrittenV}
+
+Dear **Mayor Adams**,
+
+My name is \${strName}, and I am a constituent who currently lives in \${strNeighborhood}. I am writing to express concern about the lack of awareness regarding health code violations among diners in New York City. As one of the culinary capitals of the world, our city attracts food lovers from across the globe. It’s essential that we uphold our reputation by ensuring diners have easy access to information about recent health code violations and the health grade of restaurants before they dine out. This transparency will help maintain trust in the quality and safety of the dining experiences our city offers.
+
+The NYC Health Department has a website linked below that allows you to look up all restaurant health grades.
+
+**Link:** <ins>[NYC Health Department Website](https://www.nyc.gov/site/doh/services/restaurant-grades.page)</ins>
+
+The table below outlines the health grades and their corresponding point ranges. Additionally, I have included images of the posters that restaurants are required to display in their windows.
+
+| Letter Grade | Numeric Score |
+|--------------|---------------|
+| A            | 0-13 points   |
+| B            | 14-27 points  |
+| C            | 28+ points    |
+
+![](https://patch.com/img/cdn/users/98479/2013/10/raw/bc0e36c244da9d90b6f94027229f4d07.jpg?width=1200)
+
+I propose that the Mayor's Office, promote the map below that allows a patron to look up specific violations or citations by neighborhood or establishment name.
+
+<iframe width="1000" height="815" src="https://www.arcgis.com/apps/dashboards/2861faac1dc14527922721a64af169ef" title="ArcGIS Dashboard" frameborder="1" allowfullscreen>
+
+</iframe>
+
+Moving forward, the Mayors office should use any of the following strategies to raise awareness:
+
+1.  Raise awareness about what each health grade means.
+
+2.  Create a social media and marketing campaign to raise awareness on where to get this information.
+
+3.  Release a list of the worst health code violations for diners to watch out for.
+
+4.  Have a website that allows you to look up health code violations or citations by restaurant or neighborhood, like the map above.
+
+Below, I’ve provided an example of positive press coverage regarding the expansion of the health grading system to include food carts in the city.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Od-KvFKVp5Q?si=4lYYmNlpVN3bBWq5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+
+</iframe>
+
+Thank you for your consideration.
+
+Sincerely,
+
+\${strName}
