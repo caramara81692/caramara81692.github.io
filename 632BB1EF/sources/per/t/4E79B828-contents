@@ -1,0 +1,36 @@
+project:
+  type: website
+
+website:
+  sidebar:
+    contents:
+     - index.qmd
+     - letter.qmd
+     - about.qmd
+  title: "A Demonstration for WebGIS - Class 4"
+  #subtitle: "from Hunter College, CUNY"
+  navbar:
+    search: true
+    right:
+      - href: index.qmd
+        text: Home
+        icon: "house"
+      - about.qmd
+      - href: letter.qmd
+        text: Letter
+        icon: "envelope"
+      - text: Menu
+        menu:
+        - about.qmd
+        - letter.qmd
+
+format:
+  html:
+    theme:
+      - sketchy
+      - brand
+    css: styles.css
+    toc: true
+
+editor: visual
+
